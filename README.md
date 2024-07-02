@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D12AQFArAr67RlJHw/article-cover_image-shrink_600_2000/0/1686075264316?e=2147483647&v=beta&t=YjP2JZtcryjzGHs9VRNKoCMKVR0PET-cCzQbn3gAmi8" />
 <h1 align="center">Hi , I'm Sakib Hasan</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh. I am passionate about creating responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. I am always learning and experimenting with the latest web technologies. Let's build something great together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibhasansufi&label=Profile%20views&color=0e75b6&style=flat" alt="sakibhasansufi" /> </p>
 
