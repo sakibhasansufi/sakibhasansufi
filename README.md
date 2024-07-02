@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, three.js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,tailwind,mongoDB**
 
 - 📫 How to reach me **sakibhasansufi@gmail.com**
 
