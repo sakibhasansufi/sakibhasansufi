@@ -43,8 +43,8 @@
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhasansufi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
- <p><img src="https://github-readme-stats.vercel.app/api?username=sakibhasansufi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" width="50%" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasansufi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --
 
 
 
