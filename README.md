@@ -49,7 +49,7 @@
 
  <a href="https://github.com/sakibhasansufi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibhasansufi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/sakibhasansufi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasansufi&layout=compact&theme=buefy&hide_border=true" /></a> 
 
- [![Sakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakibhasansufi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Sakib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakibhasansufi&layout=compact)](https://github.com/sakibhasansufi/github-readme-stats)
 
 
 
