@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" />
-<h1 align="center">Hi , I'm Sakib Hasan</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+I+am+Sakib+Hasan...;;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate web developer from Bangladesh. I am passionate about creating responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. I am always learning and experimenting with the latest web technologies. Let's build something great together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibhasansufi&label=Profile%20views&color=0e75b6&style=flat" alt="sakibhasansufi" /> </p>
@@ -43,8 +47,8 @@
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhasansufi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| --
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
+
 
 
 
