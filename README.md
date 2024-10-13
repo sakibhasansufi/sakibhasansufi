@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=!+👋+Hello+I+am+Sakib+Hasan.........;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Sakib+Hasan.........;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">A passionate web developer from Bangladesh. I am passionate about creating responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. I am always learning and experimenting with the latest web technologies. Let's build something great together!</h3>
