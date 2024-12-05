@@ -45,7 +45,18 @@
 
  <a href="https://github.com/sakibhasansufi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibhasansufi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/sakibhasansufi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasansufi&layout=compact&theme=buefy&hide_border=true" /></a> 
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakibhasansufi&theme=synthwave" alt="GitHub Trophies" />
+</p>
 
+<p align="center">
+  ---Feel free to connect with me or check out my projects!
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+</p>
 
 
 
